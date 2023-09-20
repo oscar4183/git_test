@@ -1,1 +1,2 @@
 this is text that ive added to my file
+this is me trying a commit 
